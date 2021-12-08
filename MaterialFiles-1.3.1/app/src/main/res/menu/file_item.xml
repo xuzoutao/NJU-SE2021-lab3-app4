@@ -12,6 +12,10 @@
         android:title="@string/file_item_action_open_with" />
 
     <item
+        android:id="@+id/action_just_test"
+        android:title="just_test" />
+
+    <item
         android:id="@+id/action_cut"
         android:title="@string/cut" />
 
@@ -54,4 +58,6 @@
     <item
         android:id="@+id/action_properties"
         android:title="@string/file_item_action_properties" />
+
+
 </menu>
