@@ -14,5 +14,7 @@
     <me.zhanghai.android.files.ui.ReadOnlyTextInputEditText
         android:id="@+id/text"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content" />
+        android:layout_height="wrap_content"
+        android:textColor="#76FF03"
+        />
 </me.zhanghai.android.files.ui.ReadOnlyTextInputLayout>
